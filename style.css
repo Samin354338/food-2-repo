@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 56px;
+}
+.fcolor {
+    color: orange;
+}
+section {
+    display: flex;
+    background-image: (Frame 56.jpg)
+}
+.imgsize {
+    width:600px;
+}
+.div01 {
+    margin-left: 70px;   
+}
+.pfontcolor {
+    color: gray;
+}
+.atagclass {
+    background-image: linear-gradient(salmon, tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
